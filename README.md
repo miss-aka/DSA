@@ -7,10 +7,12 @@ coding practise
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/miss-aka/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/miss-aka/DSA/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/miss-aka/DSA/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/miss-aka/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/miss-aka/DSA/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/miss-aka/DSA/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
